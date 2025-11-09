@@ -1,4 +1,0 @@
-C:\Users\Amine\Desktop\S7\.net&c#\gestion_pharmacie\Gestion_pharmacie\Gestion_pharmacie\obj\Debug\Gestion_pharmacie.csproj.AssemblyReference.cache
-C:\Users\Amine\Desktop\S7\.net&c#\gestion_pharmacie\Gestion_pharmacie\Gestion_pharmacie\obj\Debug\Gestion_pharmacie.Properties.Resources.resources
-C:\Users\Amine\Desktop\S7\.net&c#\gestion_pharmacie\Gestion_pharmacie\Gestion_pharmacie\obj\Debug\Gestion_pharmacie.csproj.GenerateResource.cache
-C:\Users\Amine\Desktop\S7\.net&c#\gestion_pharmacie\Gestion_pharmacie\Gestion_pharmacie\obj\Debug\Gestion_pharmacie.csproj.CoreCompileInputs.cache
