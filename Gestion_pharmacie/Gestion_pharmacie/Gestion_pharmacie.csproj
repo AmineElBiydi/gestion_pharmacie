@@ -54,8 +54,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="liste_medicament.cs" />
     <Compile Include="liste_Medicament_standard.cs" />
     <Compile Include="List_Categorie.cs" />
+    <Compile Include="medicament.cs" />
     <Compile Include="Medicament_Standard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Amine\\Desktop\\S7\\.net\u0026c#\\Gestion_pharmacie\\Gestion_pharmacie\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{2A552D3F-132B-4EEB-B0FE-3B604B6E8FBF}|Gestion_pharmacie\\Gestion_pharmacie.csproj|c:\\users\\amine\\desktop\\s7\\.net\u0026c#\\gestion_pharmacie\\gestion_pharmacie\\gestion_pharmacie\\list_categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A552D3F-132B-4EEB-B0FE-3B604B6E8FBF}|Gestion_pharmacie\\Gestion_pharmacie.csproj|solutionrelative:gestion_pharmacie\\list_categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A552D3F-132B-4EEB-B0FE-3B604B6E8FBF}|Gestion_pharmacie\\Gestion_pharmacie.csproj|c:\\users\\amine\\desktop\\s7\\.net\u0026c#\\gestion_pharmacie\\gestion_pharmacie\\gestion_pharmacie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A552D3F-132B-4EEB-B0FE-3B604B6E8FBF}|Gestion_pharmacie\\Gestion_pharmacie.csproj|solutionrelative:gestion_pharmacie\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,36 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "List_Categorie.cs",
-              "DocumentMoniker": "C:\\Users\\Amine\\Desktop\\S7\\.net\u0026c#\\Gestion_pharmacie\\Gestion_pharmacie\\Gestion_pharmacie\\List_Categorie.cs",
-              "RelativeDocumentMoniker": "Gestion_pharmacie\\List_Categorie.cs",
-              "ToolTip": "C:\\Users\\Amine\\Desktop\\S7\\.net\u0026c#\\Gestion_pharmacie\\Gestion_pharmacie\\Gestion_pharmacie\\List_Categorie.cs",
-              "RelativeToolTip": "Gestion_pharmacie\\List_Categorie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T11:42:45.938Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Amine\\Desktop\\S7\\.net\u0026c#\\Gestion_pharmacie\\Gestion_pharmacie\\Gestion_pharmacie\\Form1.cs",
-              "RelativeDocumentMoniker": "Gestion_pharmacie\\Form1.cs",
-              "ToolTip": "C:\\Users\\Amine\\Desktop\\S7\\.net\u0026c#\\Gestion_pharmacie\\Gestion_pharmacie\\Gestion_pharmacie\\Form1.cs [Design]",
-              "RelativeToolTip": "Gestion_pharmacie\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T11:40:48.409Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
